@@ -49,7 +49,6 @@ my skills are:
         Docker ⭐️ ⭐️ ⭐️
     </li>
 </div>
-
 <br>
 <br>
 
@@ -60,12 +59,3 @@ my skills are:
 ##### University
 Studying **Engineering of systems** :computer: in the **University Simon Bolivar of Barranquilla** :school:
 
-<style>
-.parent {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(7, 1fr);
-    grid-column-gap: 10px;
-    grid-row-gap: 10px;
-}
-</style>
