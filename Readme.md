@@ -49,9 +49,6 @@ my skills are:
         Docker ⭐️ ⭐️ ⭐️
     </li>
 </div>
-<br>
-<br>
-
 ### About me
 
 :seedling: Seedling I’m currently learning **Python** :snake:
