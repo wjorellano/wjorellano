@@ -9,29 +9,16 @@ my skills are:
         Ruby on Rails ⭐️ ⭐️ ⭐️ ⭐️
     </li>
     <li>
-        Javascript ⭐️ ⭐️ ⭐️
-    </li>
-    <li>
         React ⭐️ ⭐️ ⭐️
     </li>
     <li>
         React Native ⭐️ ⭐️ ⭐️
     </li>
-
     <li>
         Tailwind ⭐️ ⭐️ ⭐️ ⭐️
     </li>
     <li>
-        Git ⭐️ ⭐️ ⭐️ ⭐️
-    </li>
-    <li>
         Postgresql ⭐️ ⭐️ ⭐️ ⭐️
-    </li>
-    <li>
-        aws ⭐️ ⭐️ ⭐️
-    </li>
-    <li>
-        Docker ⭐️ ⭐️ ⭐️
     </li>
 </div>
 
