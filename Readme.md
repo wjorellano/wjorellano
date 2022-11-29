@@ -4,11 +4,7 @@ My name is **willman orellano** and i'm primarily a ruby ​​and rails develop
 
 my skills are:
 
-
 <div class="parent">
-    <li>
-        Ruby ⭐️ ⭐️ ⭐️ ⭐️
-    </li>
     <li>
         Ruby on Rails ⭐️ ⭐️ ⭐️ ⭐️
     </li>
@@ -16,28 +12,17 @@ my skills are:
         Javascript ⭐️ ⭐️ ⭐️
     </li>
     <li>
-        React : ⭐️ ⭐️ ⭐️
+        React ⭐️ ⭐️ ⭐️
     </li>
     <li>
         React Native ⭐️ ⭐️ ⭐️
     </li>
-    <li>
-        HTML ⭐️ ⭐️ ⭐️ ⭐️
-    </li>
-    <li>
-        CSS ⭐️ ⭐️ ⭐️ ⭐️
-    </li>
-    <li>
-        Bootstrap ⭐️ ⭐️ ⭐️ ⭐️
-    </li>
+
     <li>
         Tailwind ⭐️ ⭐️ ⭐️ ⭐️
     </li>
     <li>
         Git ⭐️ ⭐️ ⭐️ ⭐️
-    </li>
-    <li>
-        Heroku ⭐️ ⭐️ ⭐️ ⭐️
     </li>
     <li>
         Postgresql ⭐️ ⭐️ ⭐️ ⭐️
