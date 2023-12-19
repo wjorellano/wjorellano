@@ -6,16 +6,16 @@ my skills are:
 
 <div class="parent">
     <li>
-        Ruby on Rails ⭐️ ⭐️ ⭐️ ⭐️
+        Ruby on Rails ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
     </li>
     <li>
-        React ⭐️ ⭐️ ⭐️
+        React ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
     </li>
     <li>
         React Native ⭐️ ⭐️ ⭐️
     </li>
     <li>
-        Tailwind ⭐️ ⭐️ ⭐️ ⭐️
+        Tailwind ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
     </li>
     <li>
         Postgresql ⭐️ ⭐️ ⭐️ ⭐️
